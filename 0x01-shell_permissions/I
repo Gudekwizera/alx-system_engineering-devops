@@ -1,0 +1,11 @@
+mandatory
+Write a script that prints the effective username of the current user.
+
+julien@ubuntu:/tmp/h$ ./1-who_am_i
+julien
+julien@ubuntu:/tmp/h$ 0;276;0cmandatory
+Write a script that prints the effective username of the current user.
+
+julien@ubuntu:/tmp/h$ ./1-who_am_i
+julien
+julien@ubuntu:/tmp/h$ 0;2
